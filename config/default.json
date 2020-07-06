@@ -1,0 +1,11 @@
+{
+    "server": {
+        "PORT": 5055
+    },
+    "jwtSecret": "xxx465852",
+    "Username": "root",
+    "Database": "pizza_db",
+    "Password": "210310",
+    "Server": "localhost",
+    "Port": "3306"
+}

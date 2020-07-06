@@ -1,0 +1,11 @@
+{
+    "server": {
+        "PORT": 5055
+    },
+    "jwtSecret": "xxx465852",
+    "Username": "519TzZgIwq",
+    "Database": "519TzZgIwq",
+    "Password": "ODpR2qDcqW",
+    "Server": "remotemysql.com",
+    "Port": "3306"
+}
