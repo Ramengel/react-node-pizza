@@ -1,0 +1,54 @@
+
+.basket-table {
+    margin: 40px 0;
+}
+
+.basket-table img{
+    max-width: 80px;
+}
+
+.basket-table td{
+    text-align: center;
+    font-weight: bold;
+    vertical-align: middle;
+}
+
+.delete-pizza {
+    font-size: 32px;
+    font-weight: bold;
+    cursor: pointer;
+    color: red;
+    position: relative;
+    color: #ce4646;
+    top: -4px;
+}
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
+.input-spinner-minus {
+    position: relative;
+}
+
+.input-spinner-plus {
+    position: relative;
+}
+
+.input-spinner-input {
+    border: none;
+    border-top: 1px solid #222;
+    border-bottom: 1px solid #222;
+    height: 34px;
+    vertical-align: top;
+    height: 38px;
+    text-align: center;
+}

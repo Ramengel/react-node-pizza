@@ -1,0 +1,20 @@
+.card-pizza {
+    padding: 10px 10px 10px 10px;
+    margin: 0 0 24px 0;
+}
+
+.card-pizza button {
+    display: block;
+    width: 100%;
+}
+
+.card-pizza-image {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.card-pizza button {
+    display: block;
+    width: 100%;
+}

@@ -1,0 +1,11 @@
+.auth-block{
+    padding: 24px 0;
+
+}
+
+.auth-block .is-login {
+    font-weight: bold;
+    font-size: 18px;
+    text-decoration: underline;
+    margin: 20px 0;
+}

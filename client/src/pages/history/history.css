@@ -1,0 +1,27 @@
+.table-total-sum {
+    text-align: center;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.4);
+}
+
+.table-total-sum p{
+    margin: 12px 0
+}
+
+.table-total-sum:last-child {
+    border-bottom: none;
+}
+.table th{
+    vertical-align: middle;
+    font-weight: bold;
+    text-align: center;
+}
+
+.table td{
+    vertical-align: middle;
+    text-align: center;
+}
+
+
+.table td:last-child{
+    font-weight: bold;
+}

@@ -1,0 +1,13 @@
+.alert-block-close {
+    font-weight: bold;
+    color: black;
+    position: absolute;
+    cursor: pointer;
+    right: 20px;
+    top: 50%;
+    margin: -14px 0 0 0;
+}
+
+.alert-block {
+    position: relative;
+}
